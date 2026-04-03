@@ -1,4 +1,4 @@
-🚀 API Test Automation Suite: Postman & JavaScript
+# 🚀 API Test Automation Suite: Postman & JavaScript
 Bu proje, modern yazılım test metodolojilerini uygulamak ve backend servislerinin stabilitesini doğrulamak amacıyla geliştirilmiştir. Proje kapsamında, gerçek zamanlı çalışan API'ler üzerinden bir verinin oluşturulmasından silinmesine kadar geçen tüm CRUD süreçleri otomatize edilmiştir.
 
 🛠 Kullanılan Servisler ve Senaryolar
